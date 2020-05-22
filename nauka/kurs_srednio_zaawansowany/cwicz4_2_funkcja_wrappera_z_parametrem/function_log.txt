@@ -1,0 +1,54 @@
+--------------------
+Function 'ChangeSalary' started at 2020-05-15T12:28:11.469901
+Following arguments were used:
+Johnson 20000 True
+
+--------------------
+Function 'ChangeSalary' started at 2020-05-15T12:28:11.472924
+Following arguments were used:
+Johnson 20000
+is_bonus=True
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T16:33:32.915679
+Following arguments were used:
+Johnson 20000 True
+
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T16:33:32.915679
+Following arguments were used:
+Johnson 20000
+is_bonus=True
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:17:42.808478
+Following arguments were used:
+Johnson 20000 True
+
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:17:42.808478
+Following arguments were used:
+Johnson 20000
+is_bonus=True
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:47:59.125284
+Following arguments were used:
+Johnson 20000 True
+
+Function returned 20000
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:47:59.126282
+Following arguments were used:
+Johnson 20000
+is_bonus=True
+Function returned 20000
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:49:27.989619
+Following arguments were used:
+Johnson 20000 True
+
+Function returned 20000
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:49:27.989619
+Following arguments were used:
+Johnson 20000
+is_bonus=True
+Function returned 20000

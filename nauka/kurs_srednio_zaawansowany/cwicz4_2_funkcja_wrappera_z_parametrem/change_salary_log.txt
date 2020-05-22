@@ -1,0 +1,10 @@
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:49:28.043491
+Following arguments were used:
+Johnson 20000 True
+
+--------------------
+Function 'ChangeSalary' started at 2020-05-17T17:49:28.044474
+Following arguments were used:
+Johnson 20000
+is_bonus=True
