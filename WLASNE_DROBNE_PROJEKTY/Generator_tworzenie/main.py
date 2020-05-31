@@ -85,7 +85,7 @@ if __name__ == "__main__":
     parzyste()
 
 # przypisanie wartosci poczatkowej do zmiennej i, przejscie do petli True (program sie wykonnuje dopoki kryteria sa
-# spelniane), przejscie do instrukcji yield, przypisanie obiegtu do generatora, przejscie do pierwszej pozycji w
+# spelniane), przejscie do instrukcji yield, przypisanie obiektu do generatora, przejscie do pierwszej pozycji w
 # generetorze, czyli przypisanie do rownania i = i+2 wartosci wyznaczonej z pozycji __next__ a nastepnie przejscie do
 # yield by przypisac kolejna wartosc itd
 

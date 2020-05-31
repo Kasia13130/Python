@@ -3,6 +3,6 @@ print("cur\texchange\tamount\nUSD\t3.65\t\t" + str(int(amountPLN) / int(3.65)) +
       str(int(amountPLN) / int(4.23)))
 print("\n")
 
-ValueAsText = '123.45'
+ValueAsText = '246.78'
 factor = 1.23
 print("value is " + ValueAsText + " factor is " + str(factor) + " value * factor = " + str(float(ValueAsText) * factor))
