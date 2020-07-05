@@ -1,8 +1,0 @@
----------------
-Action FILE_CREATE in file: D:\Dokumenty\Kasia\studia\phyton nauka\kurs udemy\srednio_zaawansowany\cwicz4_2_funkcja_wrappera_z_parametrem\cwiczenie\dummy_file.txt on: 2020-05-2019:31:21
----------------
-Action FILE_DELETE in file: D:\Dokumenty\Kasia\studia\phyton nauka\kurs udemy\srednio_zaawansowany\cwicz4_2_funkcja_wrappera_z_parametrem\cwiczenie\dummy_file.txt on: 2020-05-2019:31:21
----------------
-Action FILE_CREATE in file: D:\Dokumenty\Kasia\studia\phyton nauka\kurs udemy\srednio_zaawansowany\cwicz4_2_funkcja_wrappera_z_parametrem\cwiczenie\dummy_file.txt on: 2020-05-2019:31:21
----------------
-Action FILE_DELETE in file: D:\Dokumenty\Kasia\studia\phyton nauka\kurs udemy\srednio_zaawansowany\cwicz4_2_funkcja_wrappera_z_parametrem\cwiczenie\dummy_file.txt on: 2020-05-2019:31:21
