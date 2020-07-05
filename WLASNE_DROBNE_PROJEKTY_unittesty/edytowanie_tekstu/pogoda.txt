@@ -1,0 +1,1 @@
+{'d': 'sosna', 'k': ('roza', 'stokrotka'), 'z': ('zajac', 'dzik')}

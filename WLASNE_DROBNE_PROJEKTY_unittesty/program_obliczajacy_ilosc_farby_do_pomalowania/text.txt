@@ -1,0 +1,2 @@
+Starting processing forecasting 
+ERROR Not enough data invoices 2020 
