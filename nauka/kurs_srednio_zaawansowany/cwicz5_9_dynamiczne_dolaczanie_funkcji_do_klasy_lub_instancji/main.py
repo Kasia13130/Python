@@ -80,12 +80,12 @@ print(dir(Car))
 
 print("Class------" * 5)
 Car.ExportToFile_Class = types.MethodType(exportToFile_Class, Car)
-Car.ExportToFile_Class(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Class.csv")
+Car.ExportToFile_Class(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Class.csv")
 print(dir(Car))
 
 print("Class------" * 5)
 Car.ExportToFile_Instance = types.MethodType(exportToFile_Instance, car_01)
-Car.ExportToFile_Instance(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Instance.csv")
+Car.ExportToFile_Instance(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Instance.csv")
 print(dir(car_01))
 
 print("-----" * 10)
@@ -176,20 +176,21 @@ car_02 = Car("Opel", "Corsa", True, False, True, True)
 
 print("Static -----" * 5)
 Car.ExportToFile_Static = exportToFile_Static
-## exportToFile_Static(r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_static.csv", ["Brand", "Model", "IsOnSale"], [car_01.brand, car_01.model, car_01.IsOnSale])
-Car.ExportToFile_Static(r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_static.csv", ["Brand", "Model", "IsOnSale"], [car_01.brand, car_01.model, car_01.IsOnSale])
+## exportToFile_Static(r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_static.csv", ["Brand", "Model", "IsOnSale"], [car_01.brand, car_01.model, car_01.IsOnSale])
+Car.ExportToFile_Static(
+    r"/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_static.csv", ["Brand", "Model", "IsOnSale"], [car_01.brand, car_01.model, car_01.IsOnSale])
 print(dir(Car))
 
 print("Class------" * 5)
 ## Car.ExportToFile_Class = exportToFile_Class
 Car.ExportToFile_Class = types.MethodType(exportToFile_Class, Car)
-Car.ExportToFile_Class(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Class.csv")
+Car.ExportToFile_Class(path=r"/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Class.csv")
 print(dir(Car))
 
 print("Class------" * 5)
 ## Car.ExportToFile_Instance = exportToFile_Instance
 Car.ExportToFile_Instance = types.MethodType(exportToFile_Instance, car_01)
-Car.ExportToFile_Instance(path=r"/media/sf_phyton_nauka/kurs udemy/srednio_zaawansowany/cwicze5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Instance.csv")
+Car.ExportToFile_Instance(path=r"/kurs udemy/srednio_zaawansowany/cwicz5_9_dynamiczne_dolaczanie_funkcji_do_klasy_lub_instancji/export_Instance.csv")
 print(dir(car_01))
 
 print("-----" * 10)
